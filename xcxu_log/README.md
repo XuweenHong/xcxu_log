@@ -27,4 +27,3 @@ jdk：1.8
 gradle：3.5
 mongodb：3.4
 ElastcSearch 4.0
-使用idea进行运行时，rh会报错，忽略该错误运行就可以
